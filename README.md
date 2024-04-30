@@ -1,5 +1,5 @@
 ```PYTHON
-Name : S.THIRISH
+Name : S.THIRISHA
 Reg. no. : 212222230160
 ```
 
